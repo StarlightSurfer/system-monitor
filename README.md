@@ -1,5 +1,8 @@
 # 🖥️ system-monitor
 
+[![GitHub](https://img.shields.io/github/stars/StarlightSurfer/system-monitor?style=for-the-badge)](https://github.com/StarlightSurfer/system-monitor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+
 OpenClaw 技能 - macOS 系统监控工具
 
 ## 功能
@@ -107,6 +110,7 @@ MIT License - 详见 [LICENSE](LICENSE)
 
 ## 相关链接
 
+- [GitHub 仓库](https://github.com/StarlightSurfer/system-monitor)
 - [OpenClaw 文档](https://docs.openclaw.ai)
 - [ClawHub 技能市场](https://clawhub.com)
 - [技能开发指南](https://docs.openclaw.ai/skills/creating)

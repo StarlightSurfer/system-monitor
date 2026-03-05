@@ -5,7 +5,7 @@ set -e
 
 REPO_NAME="system-monitor"
 REPO_PATH="/Users/jack/.openclaw/workspace/skills/$REPO_NAME"
-GITHUB_USER="jack"  # 请修改为您的 GitHub 用户名
+GITHUB_USER="StarlightSurfer"
 
 echo "🦞 OpenClaw Skill GitHub Publisher"
 echo "=================================="
